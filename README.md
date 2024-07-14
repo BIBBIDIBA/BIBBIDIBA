@@ -1,1 +1,1 @@
-[![BIBBIDIBA's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIBBIDIBA)](https://github.com/anuraghazra/github-readme-stats)
+[![BIBBIDIBA's GitHub stats](https://github-readme-stats.vercel.app/api?username=BIBBIDIBA&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
