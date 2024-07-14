@@ -2,4 +2,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BIBBIDIBA)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=BIBBIDIBA&hide_border=false)
+
 ![](https://github-profile-trophy.vercel.app/?username=BIBBIDIBA&margin-w=4)
